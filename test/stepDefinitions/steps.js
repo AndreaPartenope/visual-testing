@@ -16,6 +16,7 @@ Given(/^I opened the menu$/, function () {
     menuButton.waitForDisplayed()
     menuButton.waitForClickable()
     menuButton.click()
+    browser.pause(1500)
 });
 
 ///////WHEN///////  
@@ -25,6 +26,7 @@ When(/^I click the menuButton$/, function () {
     menuButton.waitForDisplayed()
     menuButton.waitForClickable()
     menuButton.click()
+    browser.pause(1500)
 })
 When(/^I click the newSessionButton$/, function () {
     let newSessionButton = $(config.newSessionButton)
