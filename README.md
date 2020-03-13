@@ -7,7 +7,6 @@ In this tests i'll use the new [webdriver-image-comparison module]. This is a li
 - [@wdio/selenium-standalone-service] version 5.11.2
 - [wdio-chromedriver-service] version 5.0.2
 - [@wdio/cucumber-framework] version 5.20.0
-- []
 
 # Examples
 
