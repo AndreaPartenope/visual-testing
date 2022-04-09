@@ -33,7 +33,7 @@
 		"grunt-cucumberjs": "^2.0.2",
 		"node-uuid": "^1.4.7",
 		"wdio-chromedriver-service": "^5.0.2",
-		"moment": ">=2.19.3",
+		"moment": ">=2.29.2",
 		"open": ">=6.0.0"
 	},
 	"babel": {
